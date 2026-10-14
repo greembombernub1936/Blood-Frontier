@@ -220,4 +220,4 @@ Blood Frontier is provided as a **free and open-source software**. Enjoy the ful
 Don't miss out on the action! **Download Blood Frontier now and join the fight to save humanity!**
 
 ---
-**Last updated:** 2026-10-14 17:52:19 UTC
+**Last updated:** 2026-10-14 21:25:51 UTC
